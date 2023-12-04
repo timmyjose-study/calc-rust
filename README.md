@@ -1,0 +1,1 @@
+Source for CMake setup: https://github.com/paandahl/cpp-with-rust
